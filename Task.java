@@ -12,5 +12,7 @@ public class Task implements Runnable{
 		// TODO Auto-generated method stub
 		
 	}
-
+	public void printPercentageLoaded(String url){
+		
+	}
 }
